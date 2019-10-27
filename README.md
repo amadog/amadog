@@ -1,1 +1,4 @@
 # amadog
+
+Hello!
+Test page!
